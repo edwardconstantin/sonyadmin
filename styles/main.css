@@ -1,0 +1,43 @@
+body {
+    background: #fafafa;
+}
+
+.hero-unit {
+    margin: 50px auto 0 auto;
+    width: 300px;
+}
+
+.container {
+	position:relative;
+}
+
+#download {
+	position: absolute;
+	right: 0px;
+	top: 56px;	
+}
+
+.top-btn {
+	display:none;
+}
+
+tr td:last-child {
+    text-align: right;
+}
+
+#mynotes {
+	top: 10px;
+	right: 10px;
+	width: 300px;
+	position: absolute;
+	z-index: 100;
+}
+
+.redalert {
+	color:red;
+}
+
+#close-notes {
+	margin-left: 112px;
+}
+
